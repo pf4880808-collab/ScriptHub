@@ -1,0 +1,11 @@
+{
+  "name": "Meu Recurso",
+  "game": "Meu Jogo",
+  "type": "Luau",
+  "key": "No Key",
+  "description": "Recurso próprio.",
+  "source": "https://exemplo.com/fonte",
+  "code": "-- código próprio",
+  "loadstring": "loadstring(game:HttpGet(\"https://exemplo.com/meu-script.lua\"))()",
+  "official": false
+}

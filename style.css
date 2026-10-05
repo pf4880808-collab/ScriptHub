@@ -1,0 +1,34 @@
+.logo-image {
+    width: 46px;
+    height: 46px;
+    border-radius: 14px;
+    display: block;
+}
+
+.card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.favorite {
+    border: 0;
+    background: transparent;
+    color: #ff2525;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.game {
+    color: #777;
+    font-size: 12px;
+}
+
+.official {
+    background: #173c27;
+}
+
+.empty {
+    grid-column: 1 / -1;
+}
